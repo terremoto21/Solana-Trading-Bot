@@ -1,7 +1,7 @@
 # Solana-Trading-Bot
 
 About Solana Trading Bot example for Raydium (CPMM/V4), Pumpfun, Orca, Moonshot and Jupiter
-Release (23/06/2025) Updated
+Release (26/06/2025) Updated
 
 Solana Trading Bot
 A high-performance, automated trading bot for Solana tokens using the Solana Tracker API. Supports Raydium (V4/CPMM), Pumpfun, Moonshot, Orca and Jupiter.
